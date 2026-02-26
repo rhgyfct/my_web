@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+SCSS Source Files
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+The SCSS (Sass) files provide the source stylesheets for this portfolio. They allow for easy customization of:
+- Color scheme
+- Typography
+- Spacing and layout
+- Component styling
+
+To use SCSS, compile the files to CSS using your preferred Sass compiler.
